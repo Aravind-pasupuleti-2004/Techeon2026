@@ -435,6 +435,34 @@ function Home() {
             </div>
           </div>
         </section>
+        <section className="event-coordinators-section">
+          <div className="coordinators-container">
+            <h2 className="coordinators-title">FACULTY COORDINATORS</h2>
+            <div className="coordinators-underline"></div>
+            
+            <div className="coordinators-grid">
+              <div className="coordinator-card">
+                <div className="coordinator-card-glow"></div>
+                <div className="coordinator-icon">👤</div>
+                <h3 className="coordinator-name">MR P Krishna Prasad</h3>
+                <div className="coordinator-contact">
+                  <span className="contact-label">Contact:</span>
+                  <span className="contact-value">9701804086</span>
+                </div>
+              </div>
+
+              <div className="coordinator-card">
+                <div className="coordinator-card-glow"></div>
+                <div className="coordinator-icon">👤</div>
+                <h3 className="coordinator-name">MR B Srinivas</h3>
+                <div className="coordinator-contact">
+                  <span className="contact-label">Contact:</span>
+                  <span className="contact-value">8555007901</span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
       </main>
 
       <footer className="page-footer">
