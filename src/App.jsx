@@ -5,7 +5,14 @@ import "./App.css";
 import blankImage from "./assets/cbit2.jpg";
 import cbitLogo from "./assets/cbit2.jpg";
 import techeonlogo from "./assets/techeon.jpeg";
-
+import posterlogo from "./assets/poster.jpeg";
+import paperlogo from "./assets/paper.jpeg";
+import ideathonlogo from "./assets/ideathon.png";
+import gtf from "./assets/ideathon.png";
+import snde from "./assets/ideathon.png";
+import mm from "./assets/ideathon.png";
+import tm from "./assets/ideathon.png";
+import cf from "./assets/ideathon.png";
 /* ================= EVENTS DATA ================= */
 
 const events = [
@@ -14,6 +21,7 @@ const events = [
     title: "Paper Presentation",
     faculty: "Dr B Indira",
     facultyPhone: "9848952195",
+    image: paperlogo,
     facultyEmail: "bindira_mca@cbit.ac.in",
     students: [
       { name: "Karunakar", phone: "8179248764" },
@@ -21,9 +29,54 @@ const events = [
       { name: "Alpa", phone: "9874687716" }
     ],
     description: "Present your technical papers and research.",
+    fulldesc:`🚀 PAPER PRESENTATION EVENT – 2026 🚀
+✨ Turn Your Ideas into Impact ✨
+
+Are you ready to showcase your research, innovation, and technical expertise?
+This is your opportunity to present your paper, gain academic recognition, and add strong value to your resume.
+
+Join us for the Paper Presentation Event – 2026, where students can present research papers on emerging technologies and trending technical domains, strictly following the IEEE format.
+
+📌 Don’t miss this chance to learn, present, and get recognized.
+
+
+🌟 Why You Should Participate
+
+🏅 Participation Certificate – Useful for resume & placements
+💰 Cash Prizes – For best paper presentations
+📚 Academic Exposure – Experience real IEEE research standards
+🧠 Technical Knowledge – Explore latest technologies
+🗣️ Presentation Skills – Boost confidence & communication
+🎓 Career Growth – Helpful for placements & higher studies
+
+
+💳 Registration Fee
+
+🔹 ₹400 per paper / per team
+🔹 Team size: 1–5 members
+🔹 Single payment covers the entire team
+🔹 No extra charges per participant
+
+
+📝 Simple Registration & Payment Process
+
+Step 1 – Submit Abstract (Compulsory)
+👉 Fill the registration form and upload your abstract:
+🔗 click the below register now button
+
+Step 2 – Wait for Approval
+📩 Only shortlisted teams will receive abstract approval confirmation.
+
+Step 3 – Make Payment (After Approval Only)
+
+💳 After approval, participants must:
+Complete payment using this form:
+🔗 https://forms.gle/LMDY8x1wxNANwRCQ8
+
+`,
     icon: "📄",
     color: "green",
-    registrationLink: "https://forms.gle/paperPresentation2026"
+    registrationLink: "https://docs.google.com/forms/d/e/1FAIpQLScgAUgZkZ2lzU_h_UpQtpV0jyVKfsr5rxVY6HR83Kj3p5RACA/viewform"
   },
   {
     id: "poster-presentation",
@@ -31,15 +84,36 @@ const events = [
     faculty: "Dr G.N.R Prasad",
     facultyPhone: "9885191683",
     facultyEmail: "gnrp@cbit.ac.in",
+    image: posterlogo,
     students: [
       { name: "Amulya", phone: "8919714896" },
       { name: "Ajay Chandu", phone: "8247255902" },
       { name: "Prashanth", phone: "8125724950" }
     ],
     description: "Present innovative ideas through creative poster designs.",
+    fulldesc: `Techeon 2026: Technical Poster Presentation
+
+As part of our Techeon 2026 event, we are organizing a Technical Poster Presentation open to all students to showcase innovative ideas and research. This event promotes knowledge sharing and creativity through visually engaging posters. 
+
+Event Details:
+Event Date: Feb 17, 2026
+Theme: Innovative Ideas & Research
+Evaluation Criteria: Clarity, Originality, and Impact
+
+Awards & Rewards:
+Can give an added weightage to your resume
+Participation: 🏅 Every participant gets a Participation Certificate!
+Winner’s Reward: 💰 Thrilling Cash Prizes await the winners!
+
+Registration Details:
+Team size : 1-4
+Per Team: ₹400
+
+Note: The amount is non-refundable.
+`,
     icon: "🎨",
     color: "cyan",
-    registrationLink: "https://forms.gle/posterPresentation2026"
+    registrationLink: "https://docs.google.com/forms/d/e/1FAIpQLSf7l8sBv3k5HfrGMx-glyq4E0nqfDcSVT3D6uN_cFx9NjeK9w/viewform?usp=header"
   },
   {
     id: "ideathon",
@@ -47,12 +121,46 @@ const events = [
     faculty: "Dr G.N.R Prasad",
     facultyPhone: "9885191683",
     facultyEmail: "gnrp@cbit.ac.in",
+    image: ideathonlogo,
     students: [
       { name: "Aravind", phone: "7396268728" },
       { name: "Isaac", phone: "6305781879" },
       { name: "Ashish", phone: "7989247815" }
     ],
     description: "Problem-solving challenges with innovative thinking.",
+    fulldesc:`Techeon 2026: Ideathon
+
+As part of Techeon 2026, the Department of MCA proudly presents an Ideathon, a platform for students to propose innovative, technology-driven solutions to real-world problems. This event encourages creativity, critical thinking, and problem-solving through structured idea pitching and solution design.
+
+Event Details
+
+Event Date: February 17, 2026
+
+Theme: Innovation for Real-World Impact
+
+Rounds: 2
+
+Round 1: Idea Pitch
+
+Round 2: Solution Design & Final Pitch
+
+Evaluation Criteria: Innovation, Feasibility, Clarity, and Impact
+
+Awards & Rewards
+
+⭐ Adds value to your resume
+
+🏅 Participation Certificate for all participants
+
+💰 Exciting Cash Prizes for winning teams
+
+Registration Details
+
+Team Size: 1–5 members
+
+Registration Fee: ₹200 per team
+
+Note: The registration fee is non-refundable`,
     icon: "💡",
     color: "yellow",
     registrationLink: "https://forms.gle/ideathon2026"
@@ -69,7 +177,9 @@ const events = [
       { name: "Nikitha", phone: "9951861525" }
     ],
     description: "Technical event focusing on audio engineering skills.",
+    fulldesc:"",
     icon: "🎵",
+    image: snde,
     color: "blue",
     registrationLink: "https://forms.gle/soundEngineering2026"
   },
@@ -85,6 +195,8 @@ const events = [
       { name: "Dheeraj", phone: "6309335222" }
     ],
     description: "Movie-based guessing game with technical twists.",
+    fulldesc:"",
+    image: gtf,
     icon: "🎬",
     color: "pink",
     registrationLink: "https://forms.gle/guessTheFlick2026"
@@ -101,7 +213,9 @@ const events = [
       { name: "Shivani", phone: "8639712033" }
     ],
     description: "Test your memory with challenging brain teasers.",
+    fulldesc:"",
     icon: "🧠",
+    image: mm,
     color: "purple",
     registrationLink: "https://forms.gle/memoryMasters2026"
   },
@@ -117,7 +231,9 @@ const events = [
       { name: "Poshitha", phone: "9440905873" }
     ],
     description: "Logical problem-solving and technical challenges.",
+    fulldesc:"",
     icon: "🔢",
+    image: tm,
     color: "orange",
     registrationLink: "https://forms.gle/techMatrix2026"
   },
@@ -133,7 +249,9 @@ const events = [
       { name: "Venkatesh P", phone: "8897087598" }
     ],
     description: "Solve complex coding challenges and algorithms.",
+    fulldesc:"",
     icon: "💻",
+    image: cf,
     color: "red",
     registrationLink: "https://forms.gle/codeCipher2026"
   }
@@ -228,7 +346,7 @@ function Home() {
               <div className="event-logo-section">
                 <div className="event-logo-placeholder">
                   <img
-                       src={blankImage}
+                       src={event.image}
                        alt=""
                        className="event-logo-img"
                   />
@@ -365,7 +483,7 @@ function EventDetails() {
           <div className="detail-hero-glow"></div>
           <span className="detail-icon">{event.icon}</span>
           <h1 className="detail-event-title">{event.title}</h1>
-          <p className="detail-event-description">{event.description}</p>
+          <p className="detail-event-description">{event.fulldesc}</p>
         </div>
 
         <div className="coordinators-section">
