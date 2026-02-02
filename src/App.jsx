@@ -8,11 +8,11 @@ import techeonlogo from "./assets/techeon.jpeg";
 import posterlogo from "./assets/poster.jpeg";
 import paperlogo from "./assets/paper.jpeg";
 import ideathonlogo from "./assets/ideathon.png";
-import gtf from "./assets/cbit2.png";
-import snde from "./assets/cbit2.png";
-import mm from "./assets/cbit2.png";
-import tm from "./assets/cbit2.png";
-import cf from "./assets/cbit2.png";
+import gtf from "./assets/cbit2.jpg";
+import snde from "./assets/cbit2.jpg";
+import mm from "./assets/cbit2.jpg";
+import tm from "./assets/cbit2.jpg";
+import cf from "./assets/cbit2.jpg";
 /* ================= EVENTS DATA ================= */
 
 const events = [
