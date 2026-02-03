@@ -8,11 +8,11 @@ import techeonlogo from "./assets/techeon.jpeg";
 import posterlogo from "./assets/poster.jpeg";
 import paperlogo from "./assets/paper.jpeg";
 import ideathonlogo from "./assets/ideathon.png";
-import gtf from "./assets/cbit2.jpg";
-import snde from "./assets/cbit2.jpg";
-import mm from "./assets/cbit2.jpg";
-import tm from "./assets/cbit2.jpg";
-import cf from "./assets/cbit2.jpg";
+import gtf from "./assets/ideathon.png";
+import snde from "./assets/snde.jpeg";
+import mm from "./assets/mm.jpeg";
+import tm from "./assets/tm.jpeg";
+import cf from "./assets/cf.jpeg";
 /* ================= EVENTS DATA ================= */
 
 const events = [
@@ -176,12 +176,41 @@ Note: The registration fee is non-refundable`,
       { name: "Ramya", phone: "7075758038" },
       { name: "Nikitha", phone: "9951861525" }
     ],
-    description: "Technical event focusing on audio engineering skills.",
-    fulldesc:"",
+    description: "An exciting technical game designed to test your listening skills, audio knowledge, communication",
+    fulldesc:`TECHEON 2026:
+🎧 SOUND ENGINEERING CHALLENGE – Hear • Communicate • Decode
+
+Tune your ears. Test your tech. Play loud, think fast!
+
+Get ready for an exciting technical game designed to test your listening skills, audio knowledge, communication, and speed through thrilling sound-engineering–based rounds.
+
+🔹 Round 1: 🎧 Spot the Technical Word
+Audio clips and sounds will be played. Listen carefully and identify the correct sound engineering terms.
+
+🔹 Round 2: 🔊 Shout & Guess
+One player shouts a sound engineering term while the other, wearing headphones with music playing, listens and guesses the word.
+
+🔹 Round 3: 🔤 Scrambled Words
+Participants race against time to rearrange scrambled sound engineering terms correctly.
+
+📌 NOTE
+
+🏅 All participants will receive a participation certificate
+💰 Exciting cash prizes for winners
+
+✨ Don’t miss the thrill — Register now!
+
+
+💰 REGISTRATION DETAILS 
+Registration Fee: ₹100 per head
+ Fee is Non-refundable 
+ After registration
+ Join the WhatsApp Group :https://chat.whatsapp.com/Fj47gPuDrUM7zc7ln81KlW?mode=gi_t
+`,
     icon: "🎵",
     image: snde,
     color: "blue",
-    registrationLink: "https://forms.gle/soundEngineering2026"
+    registrationLink: "https://docs.google.com/forms/d/e/1FAIpQLSdBJkce5AU7owekrHtUjfPW244AResZf5aVgq-ow4tYqOdYIA/viewform?usp=publish-editor"
   },
   {
     id: "guess-the-flick",
@@ -213,11 +242,41 @@ Note: The registration fee is non-refundable`,
       { name: "Shivani", phone: "8639712033" }
     ],
     description: "Test your memory with challenging brain teasers.",
-    fulldesc:"",
+    fulldesc:`MEMORY MASTERS-Listen • Link • Guess 
+Unlock your mind’s true potential!
+Get ready for a fun-filled, brain-boosting event that tests your listening skills, creativity, and musical knowledge through exciting rounds.
+
+🔹 Round 1: 🔊 Listen & Write
+Sounds will be played — listen carefully and write them down accurately.
+
+🔹 Round 2: 🖼️ Word Link Game
+Teams compete in a fast-paced word-building challenge to claim victory.
+
+🔹 Round 3: 🎵 Guess the Song
+Identify the song using visual and contextual clues.
+
+
+📌 NOTE
+
+🏅 Every participant will receive an exclusive participation certificate
+
+💰 Exciting cash prizes for winners
+
+
+✨ Don’t miss the excitement — Register now!
+
+
+💰 REGISTRATION DETAILS
+Registration Fee: ₹100 per head
+Fee is Non-refundable
+
+After registration, join the WhatsApp Group 
+https://chat.whatsapp.com/BRF2UdgqgTVKJGgiU5HXPJ?mode=gi_c`,
+
     icon: "🧠",
     image: mm,
     color: "purple",
-    registrationLink: "https://forms.gle/memoryMasters2026"
+    registrationLink: "https://forms.gle/5bkwJbbrz3zMLLuK8"
   },
   {
     id: "tech-matrix",
@@ -231,11 +290,48 @@ Note: The registration fee is non-refundable`,
       { name: "Poshitha", phone: "9440905873" }
     ],
     description: "Logical problem-solving and technical challenges.",
-    fulldesc:"",
+    fulldesc:`TECH MATRIX 
+
+ Enter the world of tech puzzles and crack the matrix!
+
+Get ready for an exciting and fun-filled technical event that tests your *basic tech awareness, logical thinking, and puzzle-solving skills* through interactive and engaging rounds.
+Tech Matrix is designed for everyone — from beginners to tech enthusiasts — where fun meets technology!
+
+Round 1: 🔍 Tech Word Hunt
+
+Participants will be given a technology-based word puzzle containing common tech terms.
+Find and mark as many correct words as possible within the given time.
+
+Round 2: 🧩 Tech Clue Craze
+
+Simple clues, riddles, scrambled words, and fun hints related to everyday technology will be given.
+Participants must guess the correct tech term from the clues.
+
+Round 3: 🔐 Tech Decode Game
+
+The final and most exciting round!
+Participants will decode easy messages, emojis, symbols, and logical clues to crack the final tech puzzle.
+
+
+
+NOTE
+
+🏅 Every participant will receive an exclusive Participation Certificate
+💰 Exciting cash prizes for winners
+
+✨ Fun | Simple | Brain-Boosting
+✨ Open to all students
+
+REGISTRATION DETAILS
+
+Registration Fee: ₹100 per head
+Fee is Non-refundable
+Join the WhatsApp Group for updates: 
+https://chat.whatsapp.com/H5X7a1TMzd16SX88L5e6or?mode=gi_t`,
     icon: "🔢",
     image: tm,
     color: "orange",
-    registrationLink: "https://forms.gle/techMatrix2026"
+    registrationLink: "https://forms.gle/1Md14QVS51VbEjhY9"
   },
   {
     id: "code-cipher",
@@ -249,11 +345,59 @@ Note: The registration fee is non-refundable`,
       { name: "Venkatesh P", phone: "8897087598" }
     ],
     description: "Solve complex coding challenges and algorithms.",
-    fulldesc:"",
+    fulldesc:`SUDHEE 2026 | TECHEON PRESENTS CODE CIPHER⚡
+A Technical Challenge for Thinkers, Not Just Coders
+Hosted by MCA Department, CBIT College
+
+Code Cipher is where logic meets instinct. Designed for curious minds and sharp problem solvers, this multi-round technical challenge pushes you beyond routine coding and into the art of reasoning, decoding, and analytical thinking.
+
+This isn’t only about who types fastest — it’s about who thinks clearest under pressure.
+
+---
+
+### 🔍 What Awaits You?
+
+🔐 Technical Treasure Hunt
+Follow hidden logic, decode program outputs, and chase clues that demand attention to detail.
+
+🕶️ Blind Coding
+No visuals. No shortcuts. Just you, your logic, and pure coding discipline.
+
+🧠 Logic Lab
+Compete in a live contest featuring carefully designed problem-solving and logical reasoning challenges.
+Accuracy, efficiency, and structured thinking will decide the winners.
+
+---
+
+### 📅 Event Snapshot
+
+📍 CBIT College
+📆 17th – 18th February 2026
+👥 Team size: Maximum 2 members
+
+---
+
+### 🎓 Why CODE CIPHER?
+
+* Builds real problem-solving confidence
+* Strengthens logical & analytical thinking
+* Adds strong technical value to your resume
+* 🏅 Participation certificates for all
+* 💰 Cash prizes for top performers
+
+---
+
+Registration fee: ₹100 per team
+
+
+
+Participants are advised to join the WhatsApp group through the form for live updates and instructions.
+
+⚠ Registration fee is non-refundable.`,
     icon: "💻",
     image: cf,
     color: "red",
-    registrationLink: "https://forms.gle/codeCipher2026"
+    registrationLink: "https://forms.gle/s118A74BpRqAghrw8"
   }
 ];
 
@@ -435,6 +579,8 @@ function Home() {
             </div>
           </div>
         </section>
+
+
         <section className="event-coordinators-section">
           <div className="coordinators-container">
             <h2 className="coordinators-title">FACULTY COORDINATORS</h2>
