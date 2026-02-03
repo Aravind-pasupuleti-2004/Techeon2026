@@ -8,7 +8,7 @@ import techeonlogo from "./assets/techeon.jpeg";
 import posterlogo from "./assets/poster.jpeg";
 import paperlogo from "./assets/paper.jpeg";
 import ideathonlogo from "./assets/ideathon.png";
-import gtf from "./assets/ideathon.png";
+import gtf from "./assets/cbit2.jpg";
 import snde from "./assets/snde.jpeg";
 import mm from "./assets/mm.jpeg";
 import tm from "./assets/tm.jpeg";
