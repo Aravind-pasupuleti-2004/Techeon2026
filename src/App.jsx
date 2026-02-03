@@ -8,7 +8,7 @@ import techeonlogo from "./assets/techeon.jpeg";
 import posterlogo from "./assets/poster.jpeg";
 import paperlogo from "./assets/paper.jpeg";
 import ideathonlogo from "./assets/ideathon.png";
-import gtf from "./assets/cbit2.jpg";
+import gtf from "./assets/gtf.jpeg";
 import snde from "./assets/snde.jpeg";
 import mm from "./assets/mm.jpeg";
 import tm from "./assets/tm.jpeg";
@@ -29,7 +29,7 @@ const events = [
       { name: "Alpa", phone: "9874687716" }
     ],
     description: "Present your technical papers and research.",
-    fulldesc:` PAPER PRESENTATION EVENT – 2026 🚀
+    fulldesc:`🚀 PAPER PRESENTATION EVENT – 2026 🚀
 ✨ Turn Your Ideas into Impact ✨
 
 Are you ready to showcase your research, innovation, and technical expertise?
@@ -40,58 +40,49 @@ Join us for the Paper Presentation Event – 2026, where students can present re
 📌 Don’t miss this chance to learn, present, and get recognized.
 
 
-
 🌟 Why You Should Participate
 
 🏅 Participation Certificate – Useful for resume & placements
 💰 Cash Prizes – For best paper presentations
 📚 Academic Exposure – Experience real IEEE research standards
-🧠 Technical Knowledge – Explore latest technologies
-🗣️ Presentation Skills – Boost confidence & communication
+🧠 Technical Knowledge – Explore latest and trending technologies
+🗣️ Presentation Skills – Improve confidence & communication skills
 🎓 Career Growth – Helpful for placements & higher studies
 
 
+💳 Registration Details
 
-💳 Registration Fee
+🔹 Registration Fee: ₹300 per presenter
 
-🔹 ₹400 per paper / per team
-🔹 Team size: 1–5 members
-🔹 Single payment covers the entire team
-🔹 No extra charges per participant
+🎁 Registration Includes:
+
+✔ One participant kit
+✔ One lunch coupon
+✔ E-certificate issued to all registered participants
+
+➕ Additional Participants:
+
+🔸 Any additional participant is required to pay ₹200
+🔸 Includes lunch coupon and participant kit
+
+⚠️ Registration fee is non-refundable once paid.
 
 
 
 📝 Simple Registration & Payment Process
 
-Step 1 – Abstract Submission (Compulsory)
-👉 click the register now button below and fill the registration form and upload your abstract
+Step 1 – Submit Abstract (Compulsory)
+👉 Fill the registration form and upload your abstract:
+🔗 click the below register now button
 
-
-
-Step 2 – Abstract Approval
+Step 2 – Wait for Approval
 📩 Only shortlisted teams will receive abstract approval confirmation.
 
+Step 3 – Make Payment (After Approval Only)
 
-Step 3 – Payment (After Approval Only)
-After approval, complete the payment using the link below:
+💳 After approval, participants must:
+Complete payment using this form:
 🔗 https://forms.gle/LMDY8x1wxNANwRCQ8
-
-⚠️ Payment should be done only after abstract approval
-⚠️ Registration fee is non-refundable once paid
-
-
-Step 4 – Join WhatsApp Group (Mandatory)
-📢 After abstract approval and successful payment, participants must join the official WhatsApp group for event updates, instructions, and schedules:
-
-🔗 https://chat.whatsapp.com/BAZrw6DGBWY0UySCugujHc?mode=gi_t
-
-
-⏰ IMPORTANT NOTE
-
-📌 Last date to submit abstract: 11th February 2026
-⏳ Late submissions will not be accepted
-📌 Limited slots available — early submission is strongly recommended
-
 
 `,
     icon: "📄",
@@ -122,12 +113,19 @@ Evaluation Criteria: Clarity, Originality, and Impact
 
 Awards & Rewards:
 Can give an added weightage to your resume
-Participation: 🏅 Every participant gets a Participation Certificate!
 Winner’s Reward: 💰 Thrilling Cash Prizes await the winners!
 
-Registration Details:
-Team size : 1-4
-Per Team: ₹400
+Registration Details
+Registration Fee: First presenter ₹300
+Registration Includes:
+* One participant kit 
+* ⁠One lunch coupon
+* E-certificate issued to all registered participants
++ Additional Participants:
+* ﻿Any additional participant is required to pay ₹200
+* ﻿﻿Includes lunch coupon and participant kit
+
+! Registration fee is non-refundable once paid.
 
 Note: The amount is non-refundable.
 `,
@@ -180,12 +178,10 @@ Team Size: 1–5 members
 
 Registration Fee: ₹200 per team
 
-Note: The registration fee is non-refundable
-Follow this link to join my WhatsApp group: https://chat.whatsapp.com/DUA9zxn448zHs1HvM4NM2J?mode=gi_t
-`,
+Note: The registration fee is non-refundable`,
     icon: "💡",
     color: "yellow",
-    registrationLink: "https://forms.gle/w3N3U44tWKZ7Ep7HA"
+    registrationLink: "https://forms.gle/ideathon2026"
   },
   {
     id: "sound-engineer",
@@ -243,14 +239,56 @@ Registration Fee: ₹100 per head
     students: [
       { name: "Raju", phone: "9666100814" },
       { name: "Pranav", phone: "9959676739" },
-      { name: "Dhiraj", phone: "6309335222" }
+      { name: "Dheeraj", phone: "6309335222" }
     ],
     description: "Movie-based guessing game with technical twists.",
-    fulldesc:"",
+    fulldesc:`TECHEON 2026:
+GUESS THE FLICK📽️🎬
+
+🎬 Lights. Camera. Action!
+Movie buffs, this is your moment to shine! Step into the ultimate cinematic showdown where passion meets popcorn and knowledge meets thrill. From fast-forwarded scenes and iconic frames to clever descriptions and decoding clues, test your film sense across visuals, memory, and teamwork. Get ready to guess the flick and prove you’re a true cinephile!
+
+🎬 Round 1 – Fast Forward Frenzy
+
+Get ready for speed! Movie clips will be played in fast-forward mode, and teams must quickly identify the film. Sharp observation and quick thinking are the keys to cracking this high-energy round.
+
+🎞️ Round 2 – Frame the Flick
+
+A single movie frame says it all. Teams will be shown a still image from a film and must guess the movie name using visual clues, details, and cinematic memory.
+
+🧩 Round 3 – Describe & Decode
+
+One teammate describes a movie without naming it, while others decode the clues to guess the film. Clear communication, creativity, and movie knowledge decide the winners here.
+
+### 📅 Event Snapshot
+
+📍 CBIT College
+📆 17th – 18th February 2026
+👥 Team size: Maximum 2 members
+
+📌 NOTE
+
+🏅 All participants will receive a participation certificate
+💰 Exciting cash prizes for winners
+
+✨ Don’t miss the thrill — Register now!
+
+
+💰 REGISTRATION DETAILS 
+Registration Fee: ₹100 per head
+ Fee is Non-refundable 
+
+💳 Transaction Details: 
+Merchant Name: CBITSTUDENTACTIVITIES
+UPI ID: 8466997204
+ 
+
+join the  Whatsapp Group:
+https://chat.whatsapp.com/Eu3aciCMXbI1F1XJz7XdKj`,
     image: gtf,
     icon: "🎬",
     color: "pink",
-    registrationLink: "https://forms.gle/guessTheFlick2026"
+    registrationLink: "https://docs.google.com/forms/d/e/1FAIpQLSepKqqTgLqdl-gyBUr2lTMGZf0iOYtS3KxcUOUGY9-4UnVIHQ/viewform?usp=preview"
   },
   {
     id: "memory-masters",
