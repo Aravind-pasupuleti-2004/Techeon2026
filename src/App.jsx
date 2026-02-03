@@ -29,7 +29,7 @@ const events = [
       { name: "Alpa", phone: "9874687716" }
     ],
     description: "Present your technical papers and research.",
-    fulldesc:`🚀 PAPER PRESENTATION EVENT – 2026 🚀
+    fulldesc:` PAPER PRESENTATION EVENT – 2026 🚀
 ✨ Turn Your Ideas into Impact ✨
 
 Are you ready to showcase your research, innovation, and technical expertise?
@@ -38,6 +38,7 @@ This is your opportunity to present your paper, gain academic recognition, and a
 Join us for the Paper Presentation Event – 2026, where students can present research papers on emerging technologies and trending technical domains, strictly following the IEEE format.
 
 📌 Don’t miss this chance to learn, present, and get recognized.
+
 
 
 🌟 Why You Should Participate
@@ -50,6 +51,7 @@ Join us for the Paper Presentation Event – 2026, where students can present re
 🎓 Career Growth – Helpful for placements & higher studies
 
 
+
 💳 Registration Fee
 
 🔹 ₹400 per paper / per team
@@ -58,20 +60,38 @@ Join us for the Paper Presentation Event – 2026, where students can present re
 🔹 No extra charges per participant
 
 
+
 📝 Simple Registration & Payment Process
 
-Step 1 – Submit Abstract (Compulsory)
-👉 Fill the registration form and upload your abstract:
-🔗 click the below register now button
+Step 1 – Abstract Submission (Compulsory)
+👉 click the register now button below and fill the registration form and upload your abstract
 
-Step 2 – Wait for Approval
+
+
+Step 2 – Abstract Approval
 📩 Only shortlisted teams will receive abstract approval confirmation.
 
-Step 3 – Make Payment (After Approval Only)
 
-💳 After approval, participants must:
-Complete payment using this form:
+Step 3 – Payment (After Approval Only)
+After approval, complete the payment using the link below:
 🔗 https://forms.gle/LMDY8x1wxNANwRCQ8
+
+⚠️ Payment should be done only after abstract approval
+⚠️ Registration fee is non-refundable once paid
+
+
+Step 4 – Join WhatsApp Group (Mandatory)
+📢 After abstract approval and successful payment, participants must join the official WhatsApp group for event updates, instructions, and schedules:
+
+🔗 https://chat.whatsapp.com/BAZrw6DGBWY0UySCugujHc?mode=gi_t
+
+
+⏰ IMPORTANT NOTE
+
+📌 Last date to submit abstract: 11th February 2026
+⏳ Late submissions will not be accepted
+📌 Limited slots available — early submission is strongly recommended
+
 
 `,
     icon: "📄",
