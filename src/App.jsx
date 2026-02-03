@@ -243,7 +243,7 @@ Registration Fee: ₹100 per head
     students: [
       { name: "Raju", phone: "9666100814" },
       { name: "Pranav", phone: "9959676739" },
-      { name: "Dheeraj", phone: "6309335222" }
+      { name: "Dhiraj", phone: "6309335222" }
     ],
     description: "Movie-based guessing game with technical twists.",
     fulldesc:"",
