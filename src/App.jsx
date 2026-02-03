@@ -3,6 +3,7 @@ import { useState, useEffect } from "react";
 import "./App.css";
 
 import blankImage from "./assets/cbit2.jpg";
+import blankImage1 from "./assets/cbit2.jpg";
 import cbitLogo from "./assets/cbit2.jpg";
 import techeonlogo from "./assets/techeon.jpeg";
 import posterlogo from "./assets/poster.jpeg";
