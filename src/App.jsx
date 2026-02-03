@@ -160,10 +160,12 @@ Team Size: 1–5 members
 
 Registration Fee: ₹200 per team
 
-Note: The registration fee is non-refundable`,
+Note: The registration fee is non-refundable
+Follow this link to join my WhatsApp group: https://chat.whatsapp.com/DUA9zxn448zHs1HvM4NM2J?mode=gi_t
+`,
     icon: "💡",
     color: "yellow",
-    registrationLink: "https://forms.gle/ideathon2026"
+    registrationLink: "https://forms.gle/w3N3U44tWKZ7Ep7HA"
   },
   {
     id: "sound-engineer",
