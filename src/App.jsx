@@ -176,7 +176,7 @@ Registration Details
 
 Team Size: 1–5 members
 
-Registration Fee: ₹100 per headS
+Registration Fee: ₹100 per head
 
 Note: The registration fee is non-refundable`,
     icon: "💡",
