@@ -7,7 +7,7 @@ import cbitLogo from "./assets/cbit2.jpg";
 import techeonlogo from "./assets/techeon.jpeg";
 import posterlogo from "./assets/poster.jpeg";
 import paperlogo from "./assets/paper.jpeg";
-import ideathonlogo from "./assets/ideathon.png";
+import ideathonlogo from "./assets/ideathon.jpeg";
 import gtf from "./assets/gtf.jpeg";
 import snde from "./assets/snde.jpeg";
 import mm from "./assets/mm.jpeg";
@@ -176,7 +176,7 @@ Registration Details
 
 Team Size: 1–5 members
 
-Registration Fee: ₹200 per team
+Registration Fee: ₹100 per headS
 
 Note: The registration fee is non-refundable`,
     icon: "💡",
